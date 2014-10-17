@@ -12,7 +12,9 @@ Autores:
 Integración Continua:
 ---
 
-to do.
+[![Build Status](https://travis-ci.org/nac-testing/teleconferencia-4-ci.svg)](https://travis-ci.org/nac-testing/teleconferencia-4-ci)
+
 
 **Unlam. 2014**
+
 **Free Software, yeah!**
