@@ -1,0 +1,7 @@
+language: groovy
+
+gradle check
+
+jdk:
+  - openjdk7
+
